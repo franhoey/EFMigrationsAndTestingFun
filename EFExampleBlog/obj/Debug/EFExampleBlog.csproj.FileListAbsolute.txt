@@ -1,0 +1,14 @@
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EFExampleBlog.dll.config
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EFExampleBlog.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EFExampleBlog.pdb
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\obj\Debug\EFExampleBlog.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\obj\Debug\EFExampleBlog.pdb
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EFExampleBlog.Respository.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EFExampleBlog.Respository.pdb
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.xml
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\obj\Debug\EFExampleBlog.csprojResolveAssemblyReference.cache
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog\bin\Debug\EntityFramework.SqlServerCompact.xml

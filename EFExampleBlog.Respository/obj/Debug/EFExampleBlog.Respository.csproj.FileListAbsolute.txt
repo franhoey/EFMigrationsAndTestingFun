@@ -1,0 +1,17 @@
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EFExampleBlog.Respository.dll.config
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EFExampleBlog.Respository.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EFExampleBlog.Respository.pdb
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.xml
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.csprojResolveAssemblyReference.cache
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.pdb
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.Migrations.InitialSetup.resources
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.csproj.GenerateResource.Cache
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\System.Data.SqlServerCe.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Projects\TestBed\EFExampleBlog\EFExampleBlog.Respository\obj\Debug\EFExampleBlog.Respository.Migrations.AddPostTags.resources
